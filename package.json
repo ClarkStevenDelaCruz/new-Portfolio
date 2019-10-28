@@ -1,0 +1,23 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.io/ClarkStevenDelaCruz/new-Portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkStevenDelaCruz/new-Portfolio.git"
+  },
+  "author": "clark steven dela cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClarkStevenDelaCruz/new-Portfolio/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
